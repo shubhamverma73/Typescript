@@ -9,4 +9,4 @@ What is tsconfig.json file??
     Note 1: After configure, you only need to fire tsc command to compile your .ts file.
     No need to specify the name of the file just after the tsc keyword during compile.
 
-    Note 2: "include": ["src"] //Specifying only convert src folder .ts file not other files that is outside the folder
+    Note 2: "include": ["src"] //Specifying only convert .ts file that is located in src folder, not other files that is outside the folder.
